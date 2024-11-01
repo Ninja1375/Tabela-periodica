@@ -2,7 +2,7 @@
 
 **Veja o projeto ao vivo:**
 
-**[Tabela Periódica](gggghh)**
+**[Tabela Periódica](https://ninja1375.github.io/Tabela-periodica/)**
 
 
 **Um Mapa dos Elementos Químicos:**
