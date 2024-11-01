@@ -1,5 +1,10 @@
 ## Tabela Periódica ##
 
+**Veja o projeto ao vivo:**
+
+**[Tabela Periódica](gggghh)**
+
+
 **Um Mapa dos Elementos Químicos:**
 
 A tabela periódica é como um mapa que organiza todos os elementos químicos conhecidos. 
@@ -21,3 +26,8 @@ Imagine um atlas que, em vez de países, mostra os "tijolos fundamentais" de tod
 **Classificação:** Agrupa os elementos em categorias como metais, ametais e gases nobres, facilitando o estudo de suas características.
 
 **Ferramenta fundamental:** É essencial para químicos, físicos e engenheiros em diversas áreas, como desenvolvimento de novos materiais, medicamentos e processos industriais.
+
+## linguagens Utilizadas ##
+
+<a href="https://programartudo.blogspot.com/2024/05/html-o-que-e-e-qual-sua-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/05/css-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/05/javascript-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+
