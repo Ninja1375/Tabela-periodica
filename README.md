@@ -1,6 +1,6 @@
 ## Tabela Periódica ##
 
-**Veja o projeto ao vivo:**
+**Veja o projeto ao Vivo:**
 
 **[Tabela Periódica](https://ninja1375.github.io/Tabela-periodica/)**
 
